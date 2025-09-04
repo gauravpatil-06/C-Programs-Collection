@@ -1,9 +1,7 @@
 ⚡ 𝗖 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻
 
 🚀 A complete collection of C programs covering all important concepts of C language.
-
 📘 Includes basic syntax, loops, arrays, functions, pointers, structures, matrices, math programs, and data handling.
-
 💡 Useful for students, beginners, and lab practice with clean and simple coding style.
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
