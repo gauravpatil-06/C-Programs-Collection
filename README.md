@@ -6,17 +6,12 @@
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
-• 🖥 𝗟𝗼𝗼𝗽𝘀 & 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁𝘀 –for, while, do-while, nested loops
-
-• ➗ 𝗠𝗮𝘁𝗵 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 – Armstrong, Factorial, Fibonacci, Area, Perimeter, Table generation
-
-• 🧮 𝗔𝗿𝗿𝗮𝘆𝘀 & 𝗠𝗮𝘁𝗿𝗶𝗰𝗲𝘀 – 1D & 2D arrays, 2×2 & 3×3 matrices, addition & multiplication
-
-• ⚡ 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 – Call by Value, Recursion, Arithmetic operations
-
-• 🔑 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀 – Pointer basics, arithmetic, pointer with functions
-
-• 📚 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 – Array of structures, real-life examples
+• 🖥 𝗟𝗼𝗼𝗽𝘀 & 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁𝘀 –for, while, do-while, nested loops <br>
+• ➗ 𝗠𝗮𝘁𝗵 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 – Armstrong, Factorial, Fibonacci, Area, Perimeter, Table generation <br>
+• 🧮 𝗔𝗿𝗿𝗮𝘆𝘀 & 𝗠𝗮𝘁𝗿𝗶𝗰𝗲𝘀 – 1D & 2D arrays, 2×2 & 3×3 matrices, addition & multiplication <br>
+• ⚡ 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 – Call by Value, Recursion, Arithmetic operations <br>
+• 🔑 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀 – Pointer basics, arithmetic, pointer with functions <br>
+• 📚 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 – Array of structures, real-life examples <br>
 
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
